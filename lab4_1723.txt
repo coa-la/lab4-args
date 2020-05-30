@@ -1,0 +1,3 @@
+The main idea is to find the character with maximum times appear in a string
+int count[26] -> the times appear of character i in the string (26 letters of English)
+so we just get a position with max values of count[26] 
