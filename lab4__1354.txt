@@ -1,0 +1,5 @@
+main idea is:
+- first need to find the position with parolime:
+ex: assdss -> d  --> index 3
+    assa -> s -> return s
+ - then just add the charector before parolime position
